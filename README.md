@@ -1,3 +1,5 @@
+# Please, note, that it's customized for my blog and it contains some hardcoded IDs like Google Analytics, Disqus and etc.
+
 # Velox
 
 Responsive and minimal theme for Ghost focus on speed, typography and semantic.
